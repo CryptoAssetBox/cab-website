@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 958.4 93.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d1d3d4;
+      }
+    </style>
+  </defs>
+  <g id="tree" transform="translate(-57.5 22.5)">
+    <g id="Group_2324" data-name="Group 2324">
+      <rect id="Rectangle_957" data-name="Rectangle 957" class="cls-1" width="947.6" height="5" transform="translate(64 32.5)"/>
+    </g>
+    <g id="Group_2325" data-name="Group 2325">
+      <rect id="Rectangle_958" data-name="Rectangle 958" class="cls-1" width="4.2" height="32" transform="translate(61.9 32.5)"/>
+    </g>
+    <g id="Group_2326" data-name="Group 2326">
+      <rect id="Rectangle_959" data-name="Rectangle 959" class="cls-1" width="4.2" height="29" transform="translate(248.5 35.4)"/>
+    </g>
+    <g id="Group_2327" data-name="Group 2327" transform="translate(99 -29)">
+      <rect id="Rectangle_960" data-name="Rectangle 960" class="cls-1" width="4.2" height="58" transform="translate(435.1 6.5)"/>
+    </g>
+    <g id="Group_2328" data-name="Group 2328">
+      <rect id="Rectangle_961" data-name="Rectangle 961" class="cls-1" width="4.2" height="29.9" transform="translate(621.7 34.6)"/>
+    </g>
+    <g id="Group_2332" data-name="Group 2332" transform="translate(-187)">
+      <rect id="Rectangle_961-2" data-name="Rectangle 961" class="cls-1" width="4.2" height="29.9" transform="translate(621.7 34.6)"/>
+    </g>
+    <g id="Group_2329" data-name="Group 2329">
+      <rect id="Rectangle_962" data-name="Rectangle 962" class="cls-1" width="4.2" height="32" transform="translate(808.4 32.5)"/>
+    </g>
+    <g id="Group_2331" data-name="Group 2331" transform="translate(199)">
+      <rect id="Rectangle_962-2" data-name="Rectangle 962" class="cls-1" width="4.2" height="32" transform="translate(808.4 32.5)"/>
+    </g>
+    <circle id="Ellipse_368" data-name="Ellipse 368" class="cls-1" cx="6.5" cy="6.5" r="6.5" transform="translate(57.5 57.9)"/>
+    <path id="Path_2984" data-name="Path 2984" class="cls-1" d="M257.1,64.4a6.5,6.5,0,1,1-6.5-6.5A6.618,6.618,0,0,1,257.1,64.4Z"/>
+    <circle id="Ellipse_369" data-name="Ellipse 369" class="cls-1" cx="6.5" cy="6.5" r="6.5" transform="translate(430.8 57.9)"/>
+    <path id="Path_2985" data-name="Path 2985" class="cls-1" d="M630.3,64.4a6.5,6.5,0,1,1-6.5-6.5A6.618,6.618,0,0,1,630.3,64.4Z"/>
+    <path id="Path_2986" data-name="Path 2986" class="cls-1" d="M816.9,64.4a6.5,6.5,0,1,1-6.5-6.5A6.618,6.618,0,0,1,816.9,64.4Z"/>
+    <path id="Path_2988" data-name="Path 2988" class="cls-1" d="M816.9,64.4a6.5,6.5,0,1,1-6.5-6.5A6.618,6.618,0,0,1,816.9,64.4Z" transform="translate(199)"/>
+  </g>
+</svg>

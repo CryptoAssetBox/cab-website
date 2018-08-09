@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 334 343.366">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #6affe1;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-6);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#22ea7c"/>
+      <stop offset="1" stop-color="#28c76f" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0dad7d"/>
+      <stop offset="1" stop-color="#16c792"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2359f1"/>
+      <stop offset="1" stop-color="#0aadf3" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#166099"/>
+      <stop offset="1" stop-color="#013d77"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-6" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2359f1"/>
+      <stop offset="1" stop-color="#0aadf3"/>
+    </linearGradient>
+  </defs>
+  <g id="illustration-2" transform="translate(-794 -1634.625)">
+    <path id="Path_4074" data-name="Path 4074" class="cls-1" d="M-1281.259,5253.393v-53.18h100v53.18Z" transform="translate(2075.259 -3356.611)"/>
+    <path id="Path_4077" data-name="Path 4077" class="cls-1" d="M-1281.259,5253.393v-53.18h100v53.18Z" transform="translate(2309.259 -3356.611)"/>
+    <path id="Path_4073" data-name="Path 4073" class="cls-2" d="M19.28,19.28,70.711,0,51.567,51.567,0,70.711Z" transform="translate(844 1793.49) rotate(45)"/>
+    <path id="Path_4076" data-name="Path 4076" class="cls-2" d="M19.28,19.28,70.711,0,51.567,51.567,0,70.711Z" transform="translate(1078 1793.49) rotate(45)"/>
+    <path id="Path_4072" data-name="Path 4072" class="cls-3" d="M4.16-153.318l-39.635-68.057-39.635,68.057,39.635,24.25Zm-39.635,31.812L4.16-145.5-35.475-87.869-75.109-145.5Z" transform="translate(879.475 1936.966)"/>
+    <path id="Path_4075" data-name="Path 4075" class="cls-3" d="M4.16-153.318l-39.635-68.057-39.635,68.057,39.635,24.25Zm-39.635,31.812L4.16-145.5-35.475-87.869-75.109-145.5Z" transform="translate(1113.475 1936.966)"/>
+    <path id="Path_4071" data-name="Path 4071" class="cls-4" d="M-1281.259,5300.991V5200.213h189.5v100.778Z" transform="translate(2140.507 -3323)"/>
+    <path id="Path_4070" data-name="Path 4070" class="cls-5" d="M36.536,36.536,134,0,97.723,97.723,0,134Z" transform="translate(954 1782.248) rotate(45)"/>
+    <path id="Path_4069" data-name="Path 4069" class="cls-6" d="M75.109-92.4,0-221.375-75.109-92.4,0-46.449ZM0-32.119,75.109-77.58,0,31.625-75.109-77.58Z" transform="translate(954 1856)"/>
+  </g>
+</svg>

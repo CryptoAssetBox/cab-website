@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 127">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4470d1;
+      }
+
+      .cls-2 {
+        fill: #066de8;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: 0.1;
+      }
+
+      .cls-4 {
+        fill: #b1d3fd;
+        font-size: 61px;
+        font-family: FontAwesome5BrandsRegular, "Font Awesome 5 Brands";
+      }
+    </style>
+  </defs>
+  <g id="mac" transform="translate(-798 -8177)">
+    <rect id="Rectangle_1227" data-name="Rectangle 1227" class="cls-1" width="126" height="116" rx="7" transform="translate(812 8177)"/>
+    <rect id="Rectangle_1226" data-name="Rectangle 1226" class="cls-2" width="126" height="116" rx="7" transform="translate(798 8188)"/>
+    <path id="Path_3384" data-name="Path 3384" class="cls-3" d="M7,0H119a7,7,0,0,1,7,7C126,112.866,39.191,38.586,7,116a7,7,0,0,1-7-7V7A7,7,0,0,1,7,0Z" transform="translate(798 8188)"/>
+    <text id="_" data-name="" class="cls-4" transform="translate(837 8264)"><tspan x="0" y="0"></tspan></text>
+  </g>
+</svg>

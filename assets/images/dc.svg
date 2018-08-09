@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59.053 62.526">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 14px;
+        font-family: FontAwesome5BrandsRegular, "Font Awesome 5 Brands";
+      }
+
+      .cls-3 {
+        filter: url(#social-back);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2359f1"/>
+      <stop offset="1" stop-color="#0aadf3"/>
+    </linearGradient>
+    <filter id="social-back" x="0" y="0" width="59.053" height="62.526" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="dc" transform="translate(-435 -12171)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 435, 12171)">
+      <path id="social-back-2" data-name="social-back" class="cls-1" d="M14.916,33.026a3.4,3.4,0,0,1-1.565-.407L1.965,26.037A3.125,3.125,0,0,1,.4,23.335V8.39L13.372.907A3.047,3.047,0,0,1,14.937.5,3.4,3.4,0,0,1,16.5.907L27.888,7.49a3.125,3.125,0,0,1,1.565,2.7V25.136L16.5,32.619A3.181,3.181,0,0,1,14.916,33.026Z" transform="translate(14.6 11.5)"/>
+    </g>
+    <text id="_" data-name="" class="cls-2" transform="translate(464.508 12204.632)"><tspan x="-6.125" y="0"></tspan></text>
+  </g>
+</svg>
