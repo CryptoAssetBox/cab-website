@@ -15,8 +15,9 @@
       }
 
       .cls-3 {
-        font-size: 16px;
-        font-family: Ubuntu-Regular, Ubuntu;
+        font-size: 18px;
+        font-family: Ubuntu-Bold, Ubuntu;
+        font-weight: 700;
       }
 
       .cls-5 {
@@ -26,20 +27,34 @@
       .cls-6 {
         fill: none;
       }
+
+      .cls-7 {
+        filter: url(#Utility_token);
+      }
     </style>
     <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#2af598"/>
       <stop offset="1" stop-color="#009efd"/>
     </linearGradient>
+    <filter id="Utility_token" x="54.5" y="34" width="78" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
   </defs>
-  <g id="utility_token" data-name="utility token" transform="translate(-493 -5682)">
+  <g id="_3" data-name="3" transform="translate(-493 -5682)">
     <g id="Ellipse_372" data-name="Ellipse 372" class="cls-1" transform="translate(526 5814)">
       <ellipse class="cls-5" cx="55.5" cy="10" rx="55.5" ry="10"/>
       <ellipse class="cls-6" cx="55.5" cy="10" rx="55" ry="9.5"/>
     </g>
     <g id="Group_2563" data-name="Group 2563">
       <rect id="Rectangle_965" data-name="Rectangle 965" class="cls-2" width="142" height="142" rx="36" transform="translate(515.5 5682)"/>
-      <text id="Utility_token-2" data-name="Utility token" class="cls-3" transform="translate(586.5 5748)"><tspan x="-44.848" y="0">Utility token</tspan></text>
+      <g class="cls-7" transform="matrix(1, 0, 0, 1, 493, 5682)">
+        <text id="Utility_token-2" data-name="Utility 
+token" class="cls-3" transform="translate(93.5 57)"><tspan x="-29.574" y="0">Utility </tspan><tspan x="-24.723" y="21">token</tspan></text>
+      </g>
       <path id="ic_more_vert_24px" class="cls-4" d="M12,8a2,2,0,1,0-2-2A2.006,2.006,0,0,0,12,8Zm0,2a2,2,0,1,0,2,2A2.006,2.006,0,0,0,12,10Zm0,6a2,2,0,1,0,2,2A2.006,2.006,0,0,0,12,16Z" transform="translate(577 5772)"/>
     </g>
   </g>

@@ -3,7 +3,7 @@
     include'header.php';
     include 'nav.php';
    ?>
- <section class="header7 cid-qZG3LPWUzm" id="header7-g" style="background:#F4F7FD; padding-top: 120px;">
+ <section class="header7 cid-qZG3LPWUzm" id="faq" style="background:#F4F7FD; padding-top: 120px;">
  <div class="container">
         <div class="row">
 

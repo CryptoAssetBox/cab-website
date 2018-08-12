@@ -4,13 +4,14 @@
     include 'nav.php';
    ?>
     <style>
-       .cid-qZG2KqcJtI .navbar {background: #21d4fd;}
+       .cid-qZG2KqcJtI .navbar {background: #6a11cb;}
        #dapps{
-        background:  #b721ff;
+        background:  #6a11cb;
         
-        background-image: -webkit-linear-gradient(290deg, #b721ff 0%, #21d4fd 100%);
-        background-image: -o-linear-gradient(290deg, #b721ff 0%, #21d4fd 100%);
-        background-image: linear-gradient(20deg, #b721ff 0%, #21d4fd 100%);
+        
+        background-image: -webkit-linear-gradient(left, #6a11cb 0%, #2575fc 100%);
+        background-image: -o-linear-gradient(left, #6a11cb 0%, #2575fc 100%);
+        background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
         padding: 120px 0;
        }
    </style>
@@ -123,3 +124,6 @@
 
 
 <?php   include 'footer.php'; ?>
+<script>
+    document.title="Deploy pre-built Dapps | CryptoAssetBox";
+</script>

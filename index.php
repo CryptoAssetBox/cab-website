@@ -21,7 +21,7 @@
                     The first multichain-based marketplace for the issuance of crypto assets for business
                 </p>
                 <div class="mbr-section-btn" data-aos="fade-up"  data-aos-duration="1000">
-                    <a class="btn btn-md btn-secondary display-4" href="#">Whitepaper</a>
+                    <a class="btn btn-md btn-secondary display-4" href="cab.pdf">Whitepaper</a>
                 </div>
             </div>
             <div class="mbr-white col-md-8 align-center illustration-box">
@@ -173,13 +173,13 @@
                     <div class="row">
                         <div class="col-12 col-md-6 mb-2" data-aos="flip-right"  data-aos-duration="700">
                             <div class="card bg-overlay">
-                                <img src="assets/images/img-3.png" class="img-fluid p-4" width="100%" alt="cryptoassetbox">
+                                <img src="assets/images/img-3.svg" class="img-fluid p-4" width="100%" alt="cryptoassetbox">
                                 <p class="text-secondary" >A blockchain-driven ecosystem for business.</p>
                             </div>
                         </div>
                         <div class="col-12 col-md-6 mb-2" data-aos="flip-left"  data-aos-duration="900">
                             <div class="card bg-overlay">
-                                <img src="assets/images/img-4.png" class="img-fluid p-4" width="100%" alt="cryptoassetbox">
+                                <img src="assets/images/img-4.svg" class="img-fluid p-4" width="100%" alt="cryptoassetbox">
                                 <p class="text-secondary" >A blockchain-driven ecosystem for business.</p>
                             </div>
                         </div>
@@ -187,7 +187,7 @@
                             <div class="card bg-overlay">
                                 <div class="row">
                                     <div class="col-12 col-md-4">
-                                        <img src="assets/images/img-5.png" class="img-fluid p-4 float-left width="100%" alt="cryptoassetbox">
+                                        <img src="assets/images/img-5.svg" class="img-fluid p-4 float-left width="100%" alt="cryptoassetbox">
                                     </div>
                                     <div class="col-12 col-md-8">
                                         <p class="text-secondary float-left pt-4" >A marketplace for Dapps that simplify business processes for the issuance of crypto assets.</p>
@@ -423,8 +423,8 @@
 
 
             </div>
-            <div class="col-12 ">
-                <ul class="list-inline ml-4 center-sm">
+            <div class="col-12 " style="max-width: 94%;">
+                <ul class="list-inline  center-sm">
                   <li class="list-inline-item" data-toggle="modal" data-target="#Cryptocurrency">
                             <img src="assets/images/1.svg" height="170px" style="margin-left:0;" alt="cryptoassetbox" data-aos="fade-up" data-aos-duration="1300">
                 </li>
@@ -472,9 +472,9 @@
                             <p class="  p-2">How It Works</p>
                         
                 
-                <div class="row w-100">
+                <div class="row" >
                     <div class="col-12 col-md-6">
-                    <div class="card card1 card-box mb-1 w-100" data-aos="fade-up" data-aos-duration="500">
+                    <div class="card card1 card-box mb-1 " data-aos="fade-up" data-aos-duration="500">
                                 <h1 class="display-2 text-white text-center pt-4">Multi-chain platform</h1>
                                 <p>Ethereum, EOS and NEO
                                 Pre-built decentralized applications (Dapps)
@@ -484,7 +484,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
-                <div class="card card2 card-box mb-1 w-100" data-aos="fade-up" data-aos-duration="900">
+                <div class="card card2 card-box mb-1 " data-aos="fade-up" data-aos-duration="900">
                             <h1 class="display-2 text-white text-center pt-4">DAPPS</h1>
                             <p>Token creator, ICO campaign creator, Security token creator, Exchange token creator, DAO Company creator, Token Airdrops</p>
                             <a href="dapps.php" class=" btn float-right" style="letter-spacing: 2px;" >Read More  <i class="fas fa-arrow-right ml-3"></i></a>
@@ -492,7 +492,7 @@
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
-                <div class="card card3 card-box mb-1 w-100" data-aos="fade-up" data-aos-duration="1300">
+                <div class="card card3 card-box mb-1 " data-aos="fade-up" data-aos-duration="1300">
                             <h1 class="display-2 text-white text-center pt-4">MANAGEMENT TOOLS</h1>
                             <p>Dashboard Compliance and regulatory support</p>
                             <a href="mtools.php" class=" btn float-right" style="letter-spacing: 2px;" >Read More  <i class="fas fa-arrow-right ml-3"></i></a>
@@ -511,151 +511,38 @@
 
 </section>
 
-<!-- <section class="header7 cid-qZG3fBdJla" id="dapps" style="background: #fff;">
+<section class="header7 cid-qZG3fBdJla" id="whitepaper" style="background: #f7f7f7;">
 
     
 
     
 
     <div class="container">
-        <div class="media-container-row">
-
-            <div class="media-content " data-aos="fade-right" data-aos-duration="1000">
-                <span class="qoute float-left">"</span>
-                <h1 class="mbr-section-title pb-3 mbr-bold mbr-fonts-style display-1 text-grey">
-                   Deploy pre-built <br> Dapps with a few <br> clicks
+        <div class="row justify-content-center">
+            
+            <div class="col-10 pt-2 align-center">
+                <div class="card">
+                    <img src="assets/images/logo-primary.svg" height="75px" alt="cryptoassetbox" data-aos="fade-down" data-aos-duration="500">
+                <h1 class="display-2 mbr-black" data-aos="zoom-in" data-aos-duration="800">Downloads</h1>
+                <h1 class="mbr-section-title pb-3 mbr-bold mbr-black mbr-fonts-style display-1 display-lg">
+                  Downloads
                 </h1>
-                <span class="bar mb-4" style="margin-left: 4.2rem"></span>
-                <p>Assets in digital form</p>
-                
-                
-            </div>
-
-            <div class="mbr-figure" style="width: 100%;" data-aos="flip-right" data-aos-duration="1000">
-                <img src="assets/images/img-10.svg" width="75%" alt="">
-            </div>
-
-        </div>
-    </div>
-</section>
-
-<section class="header7 cid-qZG3EdccwU" id="header7-d" style=" background: #fff">
-
-    
-
-    
-
-    <div class="container">
-        <div class="row video-section">
-          <div class="col-12 col-md-5">
-            <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-              <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true" data-aos="fade-up" data-aos-duration="500">
-                <div class="row">
-                    <div class="col-4">
-                        <img src="assets/images/c-1.png" width="100px" alt="">
-                    </div>
-                    <div class="col-8">
-                        <h2>COIN CREATOR</h2>
-                        <p>Issue an ERC20 based usage tokens that acts as an ID and unit of value for digital assets.</p>
-                    </div>
+                <img src="assets/images/shape-5.svg" class="align-center img-center" alt="" data-aos="fade-in" data-aos-duration="1100">
                 </div>
-                
-              </a>
-              <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false" data-aos="fade-up" data-aos-duration="800">
-                <div class="row">
-                    <div class="col-4">
-                        <img src="assets/images/c-3.png" width="100px" alt="">
-                    </div>
-                    <div class="col-8">
-                        <h2>CROWD-SALE</h2>
-                        <p>Ethereum based crowd-sale including compliant buyer & seller management.</p>
-                    </div>
-                </div></a>
-              <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" data-aos="fade-up" data-aos-duration="1100">
-                <div class="row">
-                    <div class="col-4">
-                        <img src="assets/images/c-2.png" width="100px" alt="">
-                    </div>
-                    <div class="col-8">
-                        <h2>SECURITIES TOKENS</h2>
-                        <p>Financially focused Crypto-Assets for regulated tradable securities.</p>
-                    </div>
-                </div></a>
-                <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" data-aos="fade-up" data-aos-duration="1400">
-                    <div class="row">
-                    <div class="col-4">
-                        <img src="assets/images/c-1.png" width="100px" alt="">
-                    </div>
-                    <div class="col-8">
-                        <h2>EXCHANGE TOKENS</h2>
-                        <p>Exchange Token helps manage the direct purchase, donation or transfer of utility or security tokens through a peer to peer exchange contract.</p>
-                    </div>
-                </div></a>
-            </div>
-            <h2 class="p-4 display-3 mbr-bold mbr-gr" data-aos="fade-left" data-aos-duration="800" >Sport Team Fractional Ownership is the first practical example that will be set up.</h2>
-          </div>
-          <div class="col-12 col-md-7">
-            <div class="tab-content" id="v-pills-tabContent">
-              <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                <iframe  class="position-absolute"  src="https://www.youtube.com/embed/jqroUJM4H6c?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                <img src="assets/images/laptop.png" style="position: absolute;z-index: 0;" width="120%" alt="">
-              </div>
-              <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                <iframe  class="position-absolute" src="https://www.youtube.com/embed/G7yfOMFnFPE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                <img src="assets/images/laptop.png" style="position: absolute;z-index: 0;" width="120%" alt="">
-              </div>
-              <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-                <iframe class="position-absolute" src="https://www.youtube.com/embed/-PnVBU9w0R4?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                <img src="assets/images/laptop.png" style="position: absolute;z-index: 0;" width="120%" alt="">
-              </div>
-              <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab"><iframe class="position-absolute" src="https://www.youtube.com/embed/4-07zdMqOOE?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-              <img src="assets/images/laptop.png" style="position: absolute;z-index: 0;" width="120%" alt="">
-              </div>
-            </div>
-          </div>
-        </div>
-    </div>
-</section>
- -->
-<section class="header7 cid-qZG3fBdJla" id="header7-7" style="background: #f7f7f7;">
-
-    
-
-    
-
-    <div class="container">
-        <div class="media-container-row">
-            <div class="mbr-figure" style="width: 100%;">
-                <img src="assets/images/img-11.svg" width="75%" alt="" data-aos="flip-left" data-aos-duration="500">
-            </div>
-            <div class="media-content pt-2">
-                <span class="qoute float-left">"</span>
-                <h1 class="mbr-section-title pb-3 mbr-bold mbr-fonts-style display-1 text-grey">
-                   Download <br>Whitepaper
-                </h1>
-                <span class="bar mb-4" style="margin-left: 4.2rem"></span>
                 <br>
 
-                <div class="mbr-section-sm">
-                    <div class="row">
-                        <div class="col-6 col-md-6 mb-2" data-aos="flip-left" data-aos-duration="500">
+                <div class="">
+                    <div class="row justify-content-center">
+                        <div class="col-4 mb-2" data-aos="zoom-in-up" data-aos-duration="1300">
                             <div class="card ">
-                                <img src="assets/images/mac.svg" class="img-fluid p-4" width="100%" alt="cryptoassetbox">
-                                <p class="mbr-black text-center" >MAC OS</p>
+                                <a href="cab.pdf">
+                                    
+                                <img id="img-animate" src="assets/images/pdf.svg" class="img-fluid img-animate" width="100%" alt="cryptoassetbox">
+                                <p class="mbr-black text-center pt-3" >Whitepaper</p>
+                                </a>
                             </div>
                         </div>
-                        <div class="col-6 col-md-6 mb-2" data-aos="flip-down" data-aos-duration="800">
-                            <div class="card">
-                                <img src="assets/images/win.svg" class="img-fluid p-4" width="100%" alt="cryptoassetbox">
-                                <p class="mbr-black text-center" >Windows</p>
-                            </div>
-                        </div>
-                        <div class="col-6 col-md-6 mb-2" data-aos="flip-right" data-aos-duration="1100">
-                            <div class="card ">
-                                <img src="assets/images/linux.svg" class="img-fluid p-4" width="100%" alt="cryptoassetbox">
-                                <p class="mbr-black text-center" >Linux</p>
-                            </div>
-                        </div>
+                        
                         
                     </div>
                 </div>
@@ -691,7 +578,7 @@
                     
                     <div class="card-box">
                         <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500" data-aos="zoom-in" data-aos-duration="500">
-                          Luiz Augusto Sará <a href="#" class="social-in badge"><img src="assets/images/in.svg" alt="Luiz Augusto Sará" title="Luiz Augusto Sará" ></a>
+                          Luiz Augusto Sará <a href="https://www.linkedin.com/in/saramandaia" class="social-in badge"><img src="assets/images/in.svg" alt="Luiz Augusto Sará" title="Luiz Augusto Sará" ></a>
                         </h4>
                         <h3 class="overlay" >Luiz Augusto Sará </h3>
                         <h2 class="designation" data-aos="fade-in" data-aos-duration="1000">Founder & CEO</h2>
@@ -706,7 +593,7 @@
                     
                     <div class="card-box">
                         <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
-                          Eric Banik <a href="#" class="social-in badge"><img src="assets/images/in.svg" alt="Eric Banik" title="Eric Banik"></a>
+                          Eric Banik <a href="https://www.linkedin.com/in/erik-b-a4499a15a" class="social-in badge"><img src="assets/images/in.svg" alt="Eric Banik" title="Eric Banik"></a>
                         </h4>
                         <h3 class="overlay">Eric Banik </h3>
                         <h2 class="designation">CTO</h2>
@@ -721,7 +608,7 @@
                     
                     <div class="card-box">
                         <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
-                          Brian Zermeno <a href="#" class="social-in badge"><img src="assets/images/in.svg" alt="Brian Zermeno" title="Brian Zermeno"></a>
+                          Brian Zermeno <a href="https://www.linkedin.com/in/brian-zermeno-62aa7a159" class="social-in badge"><img src="assets/images/in.svg" alt="Brian Zermeno" title="Brian Zermeno"></a>
                         </h4>
                         <h3 class="overlay">Brian Zermeno </h3>
                         <h2 class="designation">Lead Blockchain Developer</h2>
@@ -737,7 +624,7 @@
                     
                     <div class="card-box">
                         <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
-                          Wang Hao Ming <a href="#" class="social-in badge"><img src="assets/images/in.svg" alt="Wang Hao Ming" title="Wang Hao Ming"></a>
+                          Wang Hao Ming <a href="https://www.linkedin.com/in/haoming-wang-97b105135" class="social-in badge"><img src="assets/images/in.svg" alt="Wang Hao Ming" title="Wang Hao Ming"></a>
                         </h4>
                         <h3 class="overlay">Wang Hao Ming </h3>
                         <h2 class="designation">Blockchain Developer</h2>
@@ -752,7 +639,7 @@
                     
                     <div class="card-box">
                         <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
-                          Alex Aspra <a href="#" class="social-in badge"><img src="assets/images/in.svg" alt="Alex Aspra" title="Alex Aspra"></a>
+                          Alex Aspra <a href="https://www.linkedin.com/in/alex-a-352100153/" class="social-in badge"><img src="assets/images/in.svg" alt="Alex Aspra" title="Alex Aspra"></a>
                         </h4>
                         <h3 class="overlay">Alex Aspra </h3>
                         <h2 class="designation">Smart Contract Developer</h2>
@@ -767,7 +654,7 @@
                     
                     <div class="card-box">
                         <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
-                          Sampath Varma <a href="#" class="social-in badge"><img src="assets/images/in.svg" alt="Sampath Varma" title="Sampath Varma"></a>
+                          Sampath Varma <a href="https://www.linkedin.com/in/sampath-varma-45245b150/" class="social-in badge"><img src="assets/images/in.svg" alt="Sampath Varma" title="Sampath Varma"></a>
                         </h4>
                         <h3 class="overlay">Sampath Varma </h3>
                         <h2 class="designation">Strategy & Operations Lead</h2>
@@ -783,7 +670,7 @@
                     
                     <div class="card-box">
                         <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
-                          Nikita Alexandar <a href="#" class="social-in badge"><img src="assets/images/in.svg" alt="Nikita Alexandar" title="Nikita Alexandar"></a>
+                          Nikita Alexandar <a href="https://www.linkedin.com/in/nikita-alexandar-b0b500158/" class="social-in badge"><img src="assets/images/in.svg" alt="Nikita Alexandar" title="Nikita Alexandar"></a>
                         </h4>
                         <h3 class="overlay">Nikita Alexandar </h3>
                         <h2 class="designation">Full Stack Developer</h2>
@@ -798,7 +685,7 @@
                     
                     <div class="card-box">
                         <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
-                          Igor Ramsey <a href="#" class="social-in badge"><img src="assets/images/in.svg" alt="Igor Ramsey" title="Igor Ramsey"></a>
+                          Igor Ramsey <a href="https://www.linkedin.com/in/igor-ramsey-74356a151" class="social-in badge"><img src="assets/images/in.svg" alt="Igor Ramsey" title="Igor Ramsey"></a>
                         </h4>
                         <h3 class="overlay">Igor Ramsey </h3>
                         <h2 class="designation">Security Engineer</h2>
@@ -813,12 +700,27 @@
                     
                     <div class="card-box">
                         <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
-                          Alexay Drogin <a href="#" class="social-in badge"><img src="assets/images/in.svg" alt="Alexay Drogin" title="Alexay Drogin"></a>
+                          Alexay Drogin <a href="https://www.linkedin.com/in/alexay-drogin-739b22116/" class="social-in badge"><img src="assets/images/in.svg" alt="Alexay Drogin" title="Alexay Drogin"></a>
                         </h4>
                         <h3 class="overlay">Alexay Drogin</h3>
                         <h2 class="designation">Blockchain Developer</h2>
                         <p class="card-text pt-3">
                            A Bachelor's degree in Computer Science from the Universidad Politécnica de Cartagena in Spain. Alexay is a top platform architect, engineer, and developer with over 10 years of experience. 6 Years in Blockchain and Node Development.
+                        </p>
+                    </div>
+
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <img class="card-img-top" src="assets/images/t10@2x.png" alt="Sami Hyypia" title="Sami Hyypia" data-aos="flip-down" data-aos-duration="1100">
+                    
+                    <div class="card-box">
+                        <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
+                          Sami Hyypia <a href="https://www.linkedin.com/in/sami-hyypia-aa673814b" class="social-in badge"><img src="assets/images/in.svg" alt="Sami Hyypia" title="Sami Hyypia"></a>
+                        </h4>
+                        <h3 class="overlay">Sami Hyypia</h3>
+                        <h2 class="designation">Senior Frontend Developer</h2>
+                        <p class="card-text pt-3">
+                           Developer with 6 years of experience in Frontend Development. His specific area of expertise is Frontend development with Javascript. He believes that crypto asset will help future businesses.
                         </p>
                     </div>
 
@@ -859,7 +761,7 @@
                 
                 
                 <div class="card card-box media-card w-100">
-                        <a href="#">
+                        <a href="https://medium.com/@cryptoassetbox/what-the-unique-solution-does-cryptoassetbox-offer-e588eeeeb75f">
                     <div class="row">
                             
                         <div class="col-4">
@@ -873,7 +775,7 @@
                         </a>
                 </div>
                 <div class="card card-box media-card w-100">
-                        <a href="#">
+                        <a href="https://medium.com/@cryptoassetbox/five-reasons-why-you-should-join-cryptoassetbox-right-now-3ad2194fa2d7">
                     <div class="row">
 
                         <div class="col-4">
@@ -886,7 +788,7 @@
                         </a>
                 </div>
                 <div class="card card-box media-card w-100">
-                        <a href="#">
+                        <a href="https://medium.com/@cryptoassetbox/we-completed-several-roadmap-goals-before-cryptoassetbox-ico-has-even-started-7d1fa3589f79">
                     <div class="row">
 
                         <div class="col-4">
@@ -899,14 +801,27 @@
                         </a>
                 </div>
                 <div class="card card-box media-card w-100">
-                        <a href="#">
+                        <a href="https://medium.com/@cryptoassetbox/how-to-choose-an-ico-to-invest-in-db447322262e">
                     <div class="row">
 
                         <div class="col-4">
-                            <img src="assets/images/c-2.png" width="100%" alt="">
+                            <img src="assets/images/c-3.png" width="100%" alt="">
                         </div>
                         <div class="col-8">
                             <h4>How to Choose an ICO to <br>Invest In?</h4>
+                        </div>
+                    </div>
+                        </a>
+                </div>
+                <div class="card card-box media-card w-100">
+                        <a href="https://medium.com/@cryptoassetbox/how-to-avoid-scam-icos-f35aef7c5051">
+                    <div class="row">
+
+                        <div class="col-4">
+                            <img src="assets/images/c-1.png" width="100%" alt="">
+                        </div>
+                        <div class="col-8">
+                            <h4>How to Avoid Scam ICOs</h4>
                         </div>
                     </div>
                         </a>
@@ -919,7 +834,7 @@
 </section>
 
 <div class="shape-1" style="min-height: unset;"><img src="assets/images/shape-6.svg" style="margin-top: -4px; " width="100%" alt=""></div>
-<section class="header7 cid-qZG3LPWUzm" id="header7-g" style="background:#F4F7FD; ">
+<section class="header7 cid-qZG3LPWUzm" id="faq" style="background:#F4F7FD; ">
     
 
     

@@ -7,8 +7,6 @@
 
       .cls-2 {
         fill: #fff;
-        font-size: 14px;
-        font-family: FontAwesome5BrandsRegular, "Font Awesome 5 Brands";
       }
 
       .cls-3 {
@@ -31,6 +29,6 @@
     <g class="cls-3" transform="matrix(1, 0, 0, 1, 435, 12171)">
       <path id="social-back-2" data-name="social-back" class="cls-1" d="M14.916,33.026a3.4,3.4,0,0,1-1.565-.407L1.965,26.037A3.125,3.125,0,0,1,.4,23.335V8.39L13.372.907A3.047,3.047,0,0,1,14.937.5,3.4,3.4,0,0,1,16.5.907L27.888,7.49a3.125,3.125,0,0,1,1.565,2.7V25.136L16.5,32.619A3.181,3.181,0,0,1,14.916,33.026Z" transform="translate(14.6 11.5)"/>
     </g>
-    <text id="_" data-name="" class="cls-2" transform="translate(463.508 12203.632)"><tspan x="-3.609" y="0"></tspan></text>
+    <path id="Path_4236" data-name="Path 4236" class="cls-2" d="M-1.5,1.75h2.57V-4.512h2L3.391-7H1.066V-8.723A1.4,1.4,0,0,1,1.285-9.6,1.27,1.27,0,0,1,2.3-9.926H3.609v-2.215A13.543,13.543,0,0,0,1.7-12.25a3.169,3.169,0,0,0-2.324.861A3.242,3.242,0,0,0-1.5-8.969V-7H-3.609v2.488H-1.5Z" transform="translate(464.508 12204.632)"/>
   </g>
 </svg>

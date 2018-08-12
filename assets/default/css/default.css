@@ -2245,8 +2245,10 @@ clip-path: polygon(0 14%, 100% 0%, 100% 100%, 0% 100%);
   display: block;
   opacity: 0.1;
   font-size: 4rem;
-  left: 23%;
+  left: 0%;
   top: 30px;
+  text-align: center;
+  width: 100%;
 }
 .features .card .card-img img{
   display: block;
@@ -2404,11 +2406,11 @@ left: 74%;
 }
 
 #team .card .social-in {
-    left: 60%;
-    height: 35px;
-    width: 35%;
+    right: 0;
+    height: 14px;
+    width: 20%;
     position: absolute;
-    top: 40%;
+    top: 25%;
     z-index: 10;
 }
 .media-card img{
@@ -2638,6 +2640,38 @@ clip-path: polygon(0 0, 100% 0, 100% 91%, 0% 100%);
 .text-yellow{
   color: #FFD037 !important;
 }
+
+.img-animate:before {
+    position:absolute;
+    top:0;
+    left:0;    
+    background: red;
+    height: 600px;
+    width: 500px;
+}
+#code{
+  border-radius: 50px; width:90%; margin: 0 auto; margin-top: -20px;
+}
+#login-panel{
+  width: 100%;
+display: block;
+position: relative;
+background-image: -webkit-linear-gradient(bottom, #37ecba 0%, #72afd3 100%);
+    background-image: -o-linear-gradient(bottom, #37ecba 0%, #72afd3 100%);
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+background-size: cover;
+}
+@-webkit-keyframes img_animate {
+  0% {
+    transform: translateX(0px) translateY(-0px);
+  }
+  70% {
+    transform: translateX(10px) translateY(-20px);
+  }
+  100% {
+    transform: translateX(10px) translateY(-20px);
+  }
+}
 @-webkit-keyframes pulse {
   0% {
     -webkit-box-shadow: 0 0 0 0 rgba(255,8,65, 0.4);
@@ -2711,7 +2745,13 @@ clip-path: polygon(0 0, 100% 0, 100% 91%, 0% 100%);
     opacity: 1; 
   }
 }
-
+ #faq .accordion .card .card-header i {
+    margin-top: 15px;
+    color: #1684f2;
+    margin-right: 15px;
+    position: absolute;
+    right: 0;
+}
 @media (min-width: 320px ) and (max-width: 768px){
   .cid-qZG2KK77Hz {
       background-image: url("../../../assets/images/bg-1.png");
@@ -2789,11 +2829,102 @@ clip-path: polygon(0 0, 100% 0, 100% 91%, 0% 100%);
   display: none;
 }
 #tree ul li{
- width: 100%;
+  width: 100%;
+  float: left;
+  display: inline-block;
 }
 #tree ul li img{
   margin: 0 auto !important;
   display: block;
+  }
+#tree img{
+  width: 100% !important;
 }
+.shape-1 {
+    min-height: 150px;
+}
+.cid-qZG2PSrQ15,.cid-qZG35jE2zv {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}.list-group-item {
+    padding: .5rem;
+}
+.cid-qZG2WRqGrb {
+  -webkit-clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
+clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
 } 
+#about{
+  text-align: center;
+}
+.cid-qZG35jE2zv img{
+  display:block;
+  text-align: center;
+  margin:0 auto;
+  float: unset !important;
+}
+.qoute {
+  display: none;
+}
+.text-right {
+    text-align: center !important;
+}
+.text-left {
+    text-align: center !important;
+}
+.cid-qZG3AXpbJP, .cid-qZG3wTijm4  p{
+  
+    text-align: center !important;
+}
+.bar {
+    width: 100px;
+    height: 5px;
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    background: #A1BCD2;
+    border-radius: 5rem;
+    margin: 0 auto;
+    float: unset !important;
+}
+#faq .btn {
+    text-align: left;
+    }
+  #faq .accordion .card .card-header i {
+  margin-top: 15px;
+  color: #1684f2;
+  margin-right: 15px;
+  position: absolute;
+  right: 0;
+}
+#chart-1{
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: unset;
+  padding: 0px;
+  margin: 0px;
+  border-width: 0px;
+}
+#chart-2{
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: unset;
+  padding: 0px;
+  margin: 0px;
+  border-width: 0px;
+}
+#scaner h3 {
+    font-size: 1rem;
+    line-height: 20px;
+}
+#code {
+    border-radius: 23px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: -20px;
+    font-size: 0.8rem;
+    padding: 1rem !important;
+}
+}
 

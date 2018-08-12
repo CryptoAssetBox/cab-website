@@ -44,7 +44,7 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g id="_1" data-name="1" transform="translate(-117 -5682)">
+  <g id="crypto_currency-2" data-name="crypto currency" transform="translate(-117 -5682)">
     <g id="Ellipse_370" data-name="Ellipse 370" class="cls-1" transform="translate(150 5814)">
       <ellipse class="cls-5" cx="55.5" cy="10" rx="55.5" ry="10"/>
       <ellipse class="cls-6" cx="55.5" cy="10" rx="55" ry="9.5"/>
@@ -52,7 +52,7 @@
     <g id="Group_2561" data-name="Group 2561">
       <rect id="Rectangle_963" data-name="Rectangle 963" class="cls-2" width="142" height="142" rx="36" transform="translate(136.5 5682)"/>
       <g class="cls-7" transform="matrix(1, 0, 0, 1, 117, 5682)">
-        <text id="Crypto_currency-2" data-name="Crypto
+        <text id="Crypto_currency-3" data-name="Crypto
  currency" class="cls-3" transform="translate(89.5 56)"><tspan x="-28.602" y="0">Crypto</tspan><tspan x="-38.25" y="21" xml:space="preserve"> currency</tspan></text>
       </g>
       <path id="ic_more_vert_24px" class="cls-4" d="M12,8a2,2,0,1,0-2-2A2.006,2.006,0,0,0,12,8Zm0,2a2,2,0,1,0,2,2A2.006,2.006,0,0,0,12,10Zm0,6a2,2,0,1,0,2,2A2.006,2.006,0,0,0,12,16Z" transform="translate(192 5772)"/>

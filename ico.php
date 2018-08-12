@@ -289,7 +289,7 @@ quarter.</p>
 
                         
             </div>
-                     <a href="#" class="btn bg-gradient-2 log">Buy Tokens <i class="fas fa-arrow-right"></i></a>   
+                     <a href="https://cabico.io/login" class="btn bg-gradient-2 log">Buy Tokens <i class="fas fa-arrow-right"></i></a>   
 
     </div>
 
@@ -313,7 +313,7 @@ quarter.</p>
                     </h3>
                     <h2>1ETH = 10000 CAB + Bonus</h2>
                 </div>
-                    <div class="card bg-white shadow p-4 text-primary" style=" border-radius: 50px; width:90%; margin: 0 auto; margin-top: -20px;" id="code">0x21dbE958B2a7BeB4c8193d0B2EDec4c013D5Dfc7</div>
+                    <div class="card bg-white shadow p-4 text-primary code"  id="code">0x21dbE958B2a7BeB4c8193d0B2EDec4c013D5Dfc7</div>
                     <input type="text" value="0x21dbE958B2a7BeB4c8193d0B2EDec4c013D5Dfc7" style="opacity: 0;" id="myInput">
                 <br>
                 <a class="btn bg-gradient-2 text-white log" onclick="myFunction()">Copy Address <i class="fas fa-copy"></i></a>

@@ -15,8 +15,9 @@
       }
 
       .cls-3 {
-        font-size: 16px;
-        font-family: Ubuntu-Regular, Ubuntu;
+        font-size: 18px;
+        font-family: Ubuntu-Bold, Ubuntu;
+        font-weight: 700;
       }
 
       .cls-5 {
@@ -26,19 +27,33 @@
       .cls-6 {
         fill: none;
       }
+
+      .cls-7 {
+        filter: url(#Security_token);
+      }
     </style>
     <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#2af598"/>
       <stop offset="1" stop-color="#009efd"/>
     </linearGradient>
+    <filter id="Security_token" x="37.5" y="38" width="94" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
   </defs>
-  <g id="security_token" data-name="security token" transform="translate(-881 -5682)">
+  <g id="_5" data-name="5" transform="translate(-881 -5682)">
     <g id="Ellipse_374" data-name="Ellipse 374" class="cls-1" transform="translate(914 5814)">
       <ellipse class="cls-5" cx="55.5" cy="10" rx="55.5" ry="10"/>
       <ellipse class="cls-6" cx="55.5" cy="10" rx="55" ry="9.5"/>
     </g>
     <rect id="Rectangle_967" data-name="Rectangle 967" class="cls-2" width="142" height="142" rx="36" transform="translate(894.5 5682)"/>
-    <text id="Security_token-2" data-name="Security token" class="cls-3" transform="translate(965.5 5748)"><tspan x="-52.048" y="0">Security token</tspan></text>
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, 881, 5682)">
+      <text id="Security_token-2" data-name="Security 
+token" class="cls-3" transform="translate(84.5 61)"><tspan x="-37.863" y="0">Security </tspan><tspan x="-24.723" y="21">token</tspan></text>
+    </g>
     <path id="ic_more_vert_24px" class="cls-4" d="M12,8a2,2,0,1,0-2-2A2.006,2.006,0,0,0,12,8Zm0,2a2,2,0,1,0,2,2A2.006,2.006,0,0,0,12,10Zm0,6a2,2,0,1,0,2,2A2.006,2.006,0,0,0,12,16Z" transform="translate(952 5772)"/>
   </g>
 </svg>

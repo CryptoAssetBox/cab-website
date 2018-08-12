@@ -15,8 +15,9 @@
       }
 
       .cls-3 {
-        font-size: 16px;
-        font-family: Ubuntu-Regular, Ubuntu;
+        font-size: 18px;
+        font-family: Ubuntu-Bold, Ubuntu;
+        font-weight: 700;
       }
 
       .cls-5 {
@@ -26,20 +27,33 @@
       .cls-6 {
         fill: none;
       }
+
+      .cls-7 {
+        filter: url(#Transactional_token);
+      }
     </style>
     <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#2af598"/>
       <stop offset="1" stop-color="#009efd"/>
     </linearGradient>
+    <filter id="Transactional_token" x="21.5" y="40" width="134" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
   </defs>
-  <g id="transactional_token" data-name="transactional token" transform="translate(-684 -5682)">
+  <g id="_4" data-name="4" transform="translate(-684 -5682)">
     <g id="Ellipse_373" data-name="Ellipse 373" class="cls-1" transform="translate(717 5814)">
       <ellipse class="cls-5" cx="55.5" cy="10" rx="55.5" ry="10"/>
       <ellipse class="cls-6" cx="55.5" cy="10" rx="55" ry="9.5"/>
     </g>
     <rect id="Rectangle_966" data-name="Rectangle 966" class="cls-2" width="142" height="142" rx="36" transform="translate(701.5 5682)"/>
-    <text id="Transactional_token-2" data-name="Transactional
- token" class="cls-3" transform="translate(772.5 5748)"><tspan x="-48.432" y="0">Transactional</tspan><tspan x="-22.704" y="18" xml:space="preserve"> token</tspan></text>
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, 684, 5682)">
+      <text id="Transactional_token-2" data-name="Transactional
+ token" class="cls-3" transform="translate(88.5 63)"><tspan x="-57.915" y="0">Transactional</tspan><tspan x="-26.883" y="21" xml:space="preserve"> token</tspan></text>
+    </g>
     <path id="ic_more_vert_24px" class="cls-4" d="M12,8a2,2,0,1,0-2-2A2.006,2.006,0,0,0,12,8Zm0,2a2,2,0,1,0,2,2A2.006,2.006,0,0,0,12,10Zm0,6a2,2,0,1,0,2,2A2.006,2.006,0,0,0,12,16Z" transform="translate(762 5772)"/>
   </g>
 </svg>

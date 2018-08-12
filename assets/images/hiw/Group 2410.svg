@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 273.554 260.041">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #707070;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-16);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-17);
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-size: 19px;
+        font-family: Ubuntu-Medium, Ubuntu;
+        font-weight: 500;
+      }
+
+      .cls-7 {
+        filter: url(#CHAIN);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#abdcff"/>
+      <stop offset="1" stop-color="#0396ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.413" y1="1.854" x2="0" y2="0.685" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-16" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fad961"/>
+      <stop offset="1" stop-color="#f76b1c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-17" x1="1.413" y1="1.854" x2="0" y2="0.685" xlink:href="#linear-gradient-16"/>
+    <filter id="CHAIN" x="97.927" y="90.974" width="78" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2410" data-name="Group 2410" transform="translate(-291.073 -6351.026)">
+    <path id="Path_3214" data-name="Path 3214" class="cls-1" d="M3342.329,6394.047l48.763,33.587,74.771,54.453-134.1,95.9-121.1-95.9Z" transform="translate(-2911 -7)"/>
+    <g id="Group_2400" data-name="Group 2400" transform="translate(398.073 6351.026)">
+      <path id="Path_3210" data-name="Path 3210" class="cls-2" d="M94.058,17.788,62.929,35.872h0L31.8,18.084,62.929,0Z" transform="translate(-31.8)"/>
+      <path id="Path_3211" data-name="Path 3211" class="cls-3" d="M73.429,6l.3,36.169L42.6,60.253l-.3-36.169h0Z" transform="translate(-11.171 11.788)"/>
+      <path id="Path_3212" data-name="Path 3212" class="cls-2" d="M62.929,23.888l.3,36.169L31.8,42.269V6.1Z" transform="translate(-31.8 11.984)"/>
+    </g>
+    <g id="Group_2401" data-name="Group 2401" transform="translate(338.073 6393.026)">
+      <path id="Path_3210-2" data-name="Path 3210" class="cls-2" d="M94.058,17.788,62.929,35.872h0L31.8,18.084,62.929,0Z" transform="translate(-31.8)"/>
+      <path id="Path_3211-2" data-name="Path 3211" class="cls-3" d="M73.429,6l.3,36.169L42.6,60.253l-.3-36.169h0Z" transform="translate(-11.171 11.788)"/>
+      <path id="Path_3212-2" data-name="Path 3212" class="cls-2" d="M62.929,23.888l.3,36.169L31.8,42.269V6.1Z" transform="translate(-31.8 11.984)"/>
+    </g>
+    <path id="Path_3221" data-name="Path 3221" class="cls-1" d="M3366.627,6552.935l-11.49,7.648" transform="matrix(-0.259, -0.966, 0.966, -0.259, -5009.6, 11352.136)"/>
+    <g id="Group_2404" data-name="Group 2404" transform="translate(291.073 6443.026)">
+      <path id="Path_3210-3" data-name="Path 3210" class="cls-2" d="M94.058,17.788,62.929,35.872h0L31.8,18.084,62.929,0Z" transform="translate(-31.8)"/>
+      <path id="Path_3211-3" data-name="Path 3211" class="cls-3" d="M73.429,6l.3,36.169L42.6,60.253l-.3-36.169h0Z" transform="translate(-11.171 11.788)"/>
+      <path id="Path_3212-3" data-name="Path 3212" class="cls-2" d="M62.929,23.888l.3,36.169L31.8,42.269V6.1Z" transform="translate(-31.8 11.984)"/>
+    </g>
+    <g id="Group_2402" data-name="Group 2402" transform="translate(452.073 6387.026)">
+      <path id="Path_3210-4" data-name="Path 3210" class="cls-2" d="M94.058,17.788,62.929,35.872h0L31.8,18.084,62.929,0Z" transform="translate(-31.8)"/>
+      <path id="Path_3211-4" data-name="Path 3211" class="cls-3" d="M73.429,6l.3,36.169L42.6,60.253l-.3-36.169h0Z" transform="translate(-11.171 11.788)"/>
+      <path id="Path_3212-4" data-name="Path 3212" class="cls-2" d="M62.929,23.888l.3,36.169L31.8,42.269V6.1Z" transform="translate(-31.8 11.984)"/>
+    </g>
+    <g id="Group_2405" data-name="Group 2405" transform="translate(502.073 6437.026)">
+      <path id="Path_3210-5" data-name="Path 3210" class="cls-2" d="M94.058,17.788,62.929,35.872h0L31.8,18.084,62.929,0Z" transform="translate(-31.8)"/>
+      <path id="Path_3211-5" data-name="Path 3211" class="cls-3" d="M73.429,6l.3,36.169L42.6,60.253l-.3-36.169h0Z" transform="translate(-11.171 11.788)"/>
+      <path id="Path_3212-5" data-name="Path 3212" class="cls-2" d="M62.929,23.888l.3,36.169L31.8,42.269V6.1Z" transform="translate(-31.8 11.984)"/>
+    </g>
+    <g id="Group_2403" data-name="Group 2403" transform="translate(389.426 6439.068)">
+      <path id="Path_3210-6" data-name="Path 3210" class="cls-4" d="M111.27,22.706,71.535,45.79h0L31.8,23.084,71.535,0Z" transform="translate(-31.8)"/>
+      <path id="Path_3211-6" data-name="Path 3211" class="cls-5" d="M82.035,6l.378,46.168L42.678,75.253,42.3,29.084h0Z" transform="translate(-2.565 16.706)"/>
+      <path id="Path_3212-6" data-name="Path 3212" class="cls-4" d="M71.535,28.806l.378,46.168L31.8,52.268V6.1Z" transform="translate(-31.8 16.984)"/>
+    </g>
+    <path id="Path_3218" data-name="Path 3218" class="cls-1" d="M3366.627,6552.935l-11.49,7.648" transform="translate(-2843 -55)"/>
+    <path id="Path_3219" data-name="Path 3219" class="cls-1" d="M3366.627,6552.935l-11.49,7.648" transform="translate(-2958 -151)"/>
+    <path id="Path_3220" data-name="Path 3220" class="cls-1" d="M3366.627,6552.935l-11.49,7.648" transform="translate(-3020 -109)"/>
+    <g class="cls-7" transform="matrix(1, 0, 0, 1, 291.07, 6351.03)">
+      <text id="CHAIN-2" data-name="CHAIN" class="cls-6" transform="translate(136.93 114.97)"><tspan x="-29.194" y="0">CHAIN</tspan></text>
+    </g>
+    <g id="Group_2406" data-name="Group 2406" transform="translate(451.073 6491.026)">
+      <path id="Path_3210-7" data-name="Path 3210" class="cls-2" d="M94.058,17.788,62.929,35.872h0L31.8,18.084,62.929,0Z" transform="translate(-31.8)"/>
+      <path id="Path_3211-7" data-name="Path 3211" class="cls-3" d="M73.429,6l.3,36.169L42.6,60.253l-.3-36.169h0Z" transform="translate(-11.171 11.788)"/>
+      <path id="Path_3212-7" data-name="Path 3212" class="cls-2" d="M62.929,23.888l.3,36.169L31.8,42.269V6.1Z" transform="translate(-31.8 11.984)"/>
+    </g>
+    <g id="Group_2407" data-name="Group 2407" transform="translate(346.073 6489.026)">
+      <path id="Path_3210-8" data-name="Path 3210" class="cls-2" d="M94.058,17.788,62.929,35.872h0L31.8,18.084,62.929,0Z" transform="translate(-31.8)"/>
+      <path id="Path_3211-8" data-name="Path 3211" class="cls-3" d="M73.429,6l.3,36.169L42.6,60.253l-.3-36.169h0Z" transform="translate(-11.171 11.788)"/>
+      <path id="Path_3212-8" data-name="Path 3212" class="cls-2" d="M62.929,23.888l.3,36.169L31.8,42.269V6.1Z" transform="translate(-31.8 11.984)"/>
+    </g>
+    <path id="Path_3215" data-name="Path 3215" class="cls-1" d="M3311.7,6560.1l-10.461-8.17" transform="translate(-2911 -5)"/>
+    <path id="Path_3216" data-name="Path 3216" class="cls-1" d="M3311.7,6560.1l-10.461-8.17" transform="translate(-2968 -50)"/>
+    <path id="Path_3217" data-name="Path 3217" class="cls-1" d="M3367.169,6552.935l-11.032,7.648" transform="translate(-2907 -10)"/>
+    <g id="Group_2408" data-name="Group 2408" transform="translate(394.073 6539.026)">
+      <path id="Path_3210-9" data-name="Path 3210" class="cls-2" d="M94.058,17.788,62.929,35.872h0L31.8,18.084,62.929,0Z" transform="translate(-31.8)"/>
+      <path id="Path_3211-9" data-name="Path 3211" class="cls-3" d="M73.429,6l.3,36.169L42.6,60.253l-.3-36.169h0Z" transform="translate(-11.171 11.788)"/>
+      <path id="Path_3212-9" data-name="Path 3212" class="cls-2" d="M62.929,23.888l.3,36.169L31.8,42.269V6.1Z" transform="translate(-31.8 11.984)"/>
+    </g>
+  </g>
+</svg>

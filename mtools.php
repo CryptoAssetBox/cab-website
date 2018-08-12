@@ -64,5 +64,5 @@ that appropriate information is available, depending on geographic location</li>
 
 <?php   include 'footer.php'; ?>
 <script>
-    document.title="Why Multichain Platform | CryptoAssetBox";
+    document.title="Management tools | CryptoAssetBox";
 </script>
