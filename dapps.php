@@ -60,8 +60,8 @@
                         <img src="assets/images/c-1.png" width="100px" alt="">
                     </div>
                     <div class="col-8">
-                        <h2>COIN CREATOR</h2>
-                        <p>Issue an ERC20 based usage tokens that acts as an ID and unit of value for digital assets.</p>
+                        <h2 class="text-uppercase">Token Creator</h2>
+                        <p>Allows users to create their own ERC20 tokens with easy-to-use interface.</p>
                     </div>
                 </div>
                 
@@ -72,8 +72,8 @@
                         <img src="assets/images/c-3.png" width="100px" alt="">
                     </div>
                     <div class="col-8">
-                        <h2>CROWD-SALE</h2>
-                        <p>Ethereum based crowd-sale including compliant buyer & seller management.</p>
+                        <h2 class="text-uppercase">ICO campaign creator</h2>
+                        <p>Allows users to create an entire ICO campaign and accept Ethereum-based funding from investors. </p>
                     </div>
                 </div></a>
               <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" data-aos="fade-up" data-aos-duration="1100">
@@ -82,8 +82,9 @@
                         <img src="assets/images/c-2.png" width="100px" alt="">
                     </div>
                     <div class="col-8">
-                        <h2>SECURITIES TOKENS</h2>
-                        <p>Financially focused Crypto-Assets for regulated tradable securities.</p>
+                        <h2 class="text-uppercase">Security token creator</h2>
+                        <p>Issues crypto tokens for regulated tradable securities (eg shares or equity in traditional assets, start-ups, venture funds, real estate, etc)</p>
+                        <p class="mbr-bold text-italic">Sport Team Fractional Ownership is the first practical example that will be set up.</p>
                     </div>
                 </div></a>
                 <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" data-aos="fade-up" data-aos-duration="1400">
@@ -92,17 +93,38 @@
                         <img src="assets/images/c-1.png" width="100px" alt="">
                     </div>
                     <div class="col-8">
-                        <h2>EXCHANGE TOKENS</h2>
-                        <p>Exchange Token helps manage the direct purchase, donation or transfer of utility or security tokens through a peer to peer exchange contract.</p>
+                        <h2 class="text-uppercase">Exchange token creator</h2>
+                        <p>Allows for peer to peer exchange of tokens, without needing to work through an official crypto exchange.</p>
+                    </div>
+                </div></a>
+
+                <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" data-aos="fade-up" data-aos-duration="1400">
+                    <div class="row">
+                    <div class="col-4">
+                        <img src="assets/images/c-1.png" width="100px" alt="">
+                    </div>
+                    <div class="col-8">
+                        <h2 class="text-uppercase">DAO Company Creator </h2>
+                        <p>Provides a comprehensive governance framework for a decentralized autonomous organization that operates on smart contracts. Create a company, make proposals, vote on proposals, execute proposals, claim dividends.</p>
+                    </div>
+                </div></a>
+
+                <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" data-aos="fade-up" data-aos-duration="1400">
+                    <div class="row">
+                    <div class="col-4">
+                        <img src="assets/images/c-1.png" width="100px" alt="">
+                    </div>
+                    <div class="col-8">
+                        <h2 class="text-uppercase">Token Airdrop</h2>
+                        <p>Users receive free tokens as part of a referral marketing campaign. The purpose is to achieve viral growth through the network effect.</p>
                     </div>
                 </div></a>
             </div>
-            <h2 class="p-4 display-3 mbr-bold mbr-gr" data-aos="fade-left" data-aos-duration="800" >Sport Team Fractional Ownership is the first practical example that will be set up.</h2>
           </div>
-          <div class="col-12 col-md-7">
-            <div class="tab-content" id="v-pills-tabContent">
-              <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                <iframe  class="position-absolute"  src="https://www.youtube.com/embed/jqroUJM4H6c?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <div class="col-12 col-md-7" >
+            <div class="tab-content" id="v-pills-tabContent " >
+              <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab "  >
+                <iframe  class="position-absolute"  src="https://www.youtube.com/embed/jqroUJM4H6c?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen ></iframe>
                 <img src="assets/images/laptop.png" style="position: absolute;z-index: 0;" width="120%" alt="">
               </div>
               <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">

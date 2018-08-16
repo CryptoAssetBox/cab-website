@@ -87,17 +87,26 @@ quarter.</p>
                 <img src="assets/images/shape-3.svg" class="align-center img-center" alt="" data-aos="fade-in" data-aos-duration="1100">
             </div>
         </div>
-        <div class="row">
+        <div class="row pt-4">
             
             <div class="col-12 col-md-4 pt-4" >
                 <h3 class="text-white" data-aos="zoom-in-right" data-aos-duration="700">Presale</h3>
-                <p class="text-white" style="opacity: .5;">20 August - 20 September</p>
+                <p class="text-white" style="opacity: .5;">25 August – 10 September</p>
                 <div class="card card-gradient"data-aos="zoom-in-up" data-aos-duration="1000">
               <img class="card-img-top" src="assets/images/p1.svg" alt="Card image cap">
               <div class="card-body">
-                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Pre-Sale <br> Bonus Structure</h5>
-                
-                <table class="table table-no-border" data-aos="fade-up" data-aos-duration="1500">
+                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Pre-Sale Bonus </h5>
+                <h3>50%</h3>
+              
+                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Pre-Sale  Pricing </h5>
+                <h4>1 ETH = 22 183 CAB*</h4>
+           
+                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">No of CAB <br>Available </h5>
+                <h4>150 million</h4>
+              
+                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Min purchase  </h5>
+                <h4>Equivalent to 0.1 ETH</h4>
+                <!-- <table class="table table-no-border" data-aos="fade-up" data-aos-duration="1500">
                   <tbody>
                     <tr>
                       <td>6.4M CAB </td>
@@ -112,51 +121,58 @@ quarter.</p>
                       <td>+20%</td>
                     </tr>
                   </tbody>
-                </table>
+                </table> -->
 
-                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Minimum Deposit</h5>
-                <p>0.1 ETH</p>
 
               </div>
             </div>
             </div>
             <div class="col-12 col-md-4 pt-4">
-                <h3 class="text-white" data-aos="fade-up-right" data-aos-duration="1500">Minimum Goal</h3>
+                <h3 class="text-white" data-aos="fade-up-right" data-aos-duration="1500">General Conditions</h3>
                 <div class="card card-gradient" data-aos="zoom-in-up" data-aos-duration="1000">
               <img class="card-img-top" src="assets/images/p2.svg" alt="Card image cap">
               <div class="card-body" data-aos="fade-up" data-aos-duration="1500">
                
                 <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Total Supply</h5>
-                <p>1,000,000,000 CAB</p>
-                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Token Price</h5>
-                <p>1 ETH = 10000 CAB</p>
-                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Softcap</h5>
-                <p>4000 ETH</p>
+                <p>500,000,000 CAB</p>
+                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Soft Cap</h5>
+                <p>1500 ETH</p>
+                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Hard Cap</h5>
+                <p>30 000 ETH</p>
                 <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Accepted Currencies</h5>
-                <p>ETH, BTC, BCH, XRP, LTC/p>
+                <p>ETH, BTC, BCH, XRP, LTC</p>
+                <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Affiliate Programme</h5>
+                <p>5% commission for referring a new user who buys CAB tokens</p>
+
+                <h6 style="font-size: .6rem;">The unsold CAB created for the ICO sale will be destroyed. CAB tokens are not mined by users or any other companies</h6>
 
               </div>
             </div>
             </div>
             <div class="col-12 col-md-4 pt-4">
                 <h3 class="text-white" data-aos="zoom-in-right" data-aos-duration="700">Main Token Sale</h3>
-                <p class="text-white" style="opacity: .5;">31 September - 12 December</p>
+                <p class="text-white" style="opacity: .5;">1 – 28 October</p>
                 <div class="card card-gradient" data-aos="zoom-in-up" data-aos-duration="1000">
               <img class="card-img-top" src="assets/images/p3.svg" alt="Card image cap">
               <div class="card-body" data-aos="fade-up" data-aos-duration="1500">
                 <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Main Sale Bonus <br> Structure</h5>
-                <table class="table table-no-border">
-                  <tbody>
-                    <tr>
-                      <td>350M CAB</td>
-                      <td>350M CAB</td>
-                    </tr>
-                    <tr>
-                      <td>+15%</td>
-                      <td>+10%</td>
-                    </tr>
-                  </tbody>
-                </table>
+               
+                      <h6>Round 1: Price 500 Stats Bonus 30%  <br> <span class="text-sm">( Duration 7 days)</span></h6>
+                   
+                    
+                      <h6>Round 2: Price 750 Stats Bonus 20% <br> <span class="text-sm">( Duration 7 days)</span></h6>
+                 
+                   
+                      <h6>Round 3: Price 1000 Stats Bonus 10% <br> <span class="text-sm">( Duration 7 days)</span></h6>
+                     
+                   
+                      <h6>Round 4: Price 1250 Stats Bonus 5% <br> <span class="text-sm">( Duration 7 days)</span></h6>
+                  
+                   
+                    <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Main Sale Pricing</h5>
+                      <p>1 ETH = 11 200 CAB*</p>
+                       <h5 class="card-title" data-aos="fade-up-right" data-aos-duration="1500">Minimum Purchase</h5>
+                      <p>Equivalent to 0.1 ETH</p>
 
               </div>
             </div>
@@ -172,7 +188,7 @@ quarter.</p>
                 
             </div>
         </div>
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-12">
                 <div class="card p-4" style="max-width: 200px; margin: 0 auto;">
                     
@@ -181,14 +197,14 @@ quarter.</p>
                 <img src="assets/images/logo-primary.svg"  alt="cryptoassetbox" height="120px;" style="margin-right: 30px; position: absolute; margin-top: -50px;" data-aos="zoom-in" data-aos-duration="1300">
                 </div>
             </div>
-            <div class="col-12 col-md-6 ">
-                <h1 class="display-1 text-primary text-left" data-aos="zoom-in" data-aos-duration="500">Funds Allocation</h1>
+            <div class="col-12  col-md-10">
+                <h1 class="display-1 text-primary text-center " data-aos="zoom-in" data-aos-duration="500">Funds Allocation</h1>
                 <br>
                 <div class="chart-1" id="chart-1"  style="width:100%; height:500px; margin: 0 auto;"></div>
                
             </div>
-            <div class="col-12 col-md-6">
-                <h1 class="display-1 text-primary text-right" data-aos="zoom-in" data-aos-duration="1200">Token Distribution</h1>
+            <div class="col-12 col-md-10">
+                <h1 class="display-1 text-primary  text-center" data-aos="zoom-in" data-aos-duration="1200">Token Distribution</h1>
                 <br>
                 <div class="chart-1" id="chart-2"  style="width:100%; height:500px; margin: 0 auto;"></div>
                
@@ -213,7 +229,7 @@ quarter.</p>
                    Real Affiliate <br> Program!
                 </h1>
                 <span class="bar mb-4" style="margin-left: 4.2rem"></span>
-                <p>When you refer a new user who purchases CAB Tokens you'll get a 10% affiliate commission.
+                <p>When you refer a new user who purchases CAB Tokens you'll get a 5% affiliate commission.
                 The commission is paid in ETH, BTC, BCH, XRP or LTC depending on the currency used from the new user to purchase the CAB Tokens.</p>
                 <br>
                 <a href="#" class="btn bg-gradient-2 log">Signup <i class="fas fa-arrow-right"></i></a>
@@ -268,7 +284,7 @@ quarter.</p>
                
             </div>
             <div class="col-8 pb-4">
-            <h2 class="live-head text-center" data-aos="fade-down" data-aos-duration="500">Current Bonus <span class="bonus">70%</span></h2>
+            <!-- <h2 class="live-head text-center" data-aos="fade-down" data-aos-duration="500">Current Bonus <span class="bonus">50%</span></h2> -->
                 
             </div>
             <div class="col-12 pt-4">

@@ -14,7 +14,7 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="/">
+                    <a href="index.php">
                          <img src="assets/images/logo.png" alt="cryptoassetbox" title="cryptoassetbox" style="height: 3.8rem;">
                     </a>
                 </span>

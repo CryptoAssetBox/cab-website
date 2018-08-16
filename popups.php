@@ -30,9 +30,8 @@
         </button>
       </div>
       <div class="modal-body p-4">
-        <p>The platform for the development of other decentralized projects or Dapps. Ethereum is the
-best known. EOS and NEO work in a similar way. The CryptoAssetBox CABox token is also a platform token.</p>
-    <h5>(Examples: ETH, EOS, NEO and CABox)</h5>
+        <p>The platform for the development of other decentralized projects or Dapps. Ethereum is the best known. EOS and NEO work in a similar way.</p>
+    <h5>(Examples: ETH, EOS, NEO)</h5>
       </div>
 
       <div class="modal-footer">
@@ -52,8 +51,8 @@ best known. EOS and NEO work in a similar way. The CryptoAssetBox CABox token is
         </button>
       </div>
       <div class="modal-body p-4">
-        <p>Token with a specific purpose, linked to a specific project, generally exchanged for services from that project. Usually an ERC20 token.</p>
-    <h5>(Examples: GNT, BAX, OMG)</h5>
+        <p>Token with a specific purpose, linked to a specific project, generally exchanged for services from that project. Usually an ERC20 token. CryptoAssetBox token is also an ERC20 token</p>
+    <h5>(Examples: GNT, BAX, OMG and CABox)</h5>
       </div>
 
       <div class="modal-footer">

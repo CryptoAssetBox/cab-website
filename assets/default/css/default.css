@@ -2176,6 +2176,7 @@ clip-path: polygon(0 14%, 100% 0%, 100% 100%, 0% 100%);
   font-family: 'Saltire', sans-serif;
   margin-top: -1rem;
   margin-right:1rem;
+  height: 350px;
 }
 .mbr-black{
   color: #4B4B4B;
@@ -2365,7 +2366,7 @@ left: 74%;
 .tab-content iframe{
   z-index: 10;
   left: 18%;
-  top: 6%;
+  top: 4%;
   width:590px;
   height: 380px;
   /*width: 100% !important;
@@ -2492,7 +2493,7 @@ clip-path: polygon(0 0, 100% 0, 100% 91%, 0% 100%);
   border-radius: 10px;
 }
 #token_sale .card:nth-child(odd){
-  height: 420px;
+  height: 550px;
 
 }
 #token_sale .card-body {
@@ -2510,6 +2511,7 @@ clip-path: polygon(0 0, 100% 0, 100% 91%, 0% 100%);
   border-bottom: 2px dashed rgba(255,255,255,0.2);
   margin-bottom: 1rem;
   padding: 10px;
+  font-size: 1.2rem;
 }
 #token_sale .card .card-text{
   color: #BBCFF8;
@@ -2618,9 +2620,11 @@ clip-path: polygon(0 0, 100% 0, 100% 91%, 0% 100%);
   color: #fff;
 }
 .crypto-asset-box .card3{
-  background:#2af598;
-  background-image: linear-gradient(180deg, #2af598 0%, #009efd 100%);
-  background: linear-gradient(180deg, #2af598 0%, #009efd 100%);
+
+    background: #0AADF3;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #2359F1, #0AADF3);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #2359F1, #0AADF3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border: none;
   color: #fff;
 }
 .crypto-asset-box .card{
@@ -2633,9 +2637,9 @@ clip-path: polygon(0 0, 100% 0, 100% 91%, 0% 100%);
 }
 #mcp{
     padding: 120px auto;
-    background-image: -webkit-linear-gradient(bottom, #37ecba 0%, #72afd3 100%);
-    background-image: -o-linear-gradient(bottom, #37ecba 0%, #72afd3 100%);
-    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+    background-image: -webkit-linear-gradient(bottom, #0fd9a1  0%, #61add9  100%);
+    background-image: -o-linear-gradient(bottom, #0fd9a1  0%, #61add9  100%);
+    background-image: linear-gradient(to top, #0fd9a1  0%, #61add9  100%);
 }
 .text-yellow{
   color: #FFD037 !important;
@@ -2752,6 +2756,20 @@ background-size: cover;
     position: absolute;
     right: 0;
 }
+#about .card img{
+  transition: .125s ease-in-out;
+}
+#about .card:hover img{
+  transform: scale(1.08);
+}
+.spec .card {
+  min-height: 250px;
+  vertical-align: center;
+}
+.text-sm{
+  font-size: .7rem;
+}
+
 @media (min-width: 320px ) and (max-width: 768px){
   .cid-qZG2KK77Hz {
       background-image: url("../../../assets/images/bg-1.png");
@@ -2925,6 +2943,16 @@ clip-path: polygon(0 5%, 100% 0, 100% 100%, 0% 100%);
     margin-top: -20px;
     font-size: 0.8rem;
     padding: 1rem !important;
+}
+#chart-1 canvas{
+  width: 255px !important;
+  height: 360px !important;
+  margin: 0 auto;
+}
+#chart-2 canvas{
+  width: 255px !important;
+  height: 360px !important;
+  margin: 0 auto;
 }
 }
 

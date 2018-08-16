@@ -55,6 +55,7 @@
 		  <li class="list-group-item">Traditional securities markets are illiquid and limit participation. CryptoAssetBox
 			opens the market for ownership and investment opportunities. It bridges the gap
 			between traditional and blockchain-based businesses</li>
+      <li class="list-group-item">It is difficult and expensive to get new tokens listed on crypto-exchanges. Small to medium-cap projects and tokens can be swamped by larger ones. This means that it is difficult to quickly give liquidity to investments. The CABEx crypto exchange will immediately list new tokens, especially for small to medium cap projects. This ensures liquidity of tokens in the secondary market.</li>
 		</ol>
       </div>
     </div>

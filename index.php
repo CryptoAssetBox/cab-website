@@ -98,6 +98,19 @@
                 </div>
             </div>
 
+            <div class="card p-3 col-6 col-md-6 col-lg-3 mt-lg-1"  data-aos="fade-left"  data-aos-duration="2000">
+                <div class="card-img pb-3 mt-lg-3">
+                    <img src="assets/images/icon-9.png" width="50%" alt="">
+                </div>
+                <div class="card-box">
+                    <h4 class="card-title py-3 mbr-fonts-style display-5">
+                        Liquidity is assured
+                    </h4>
+                    <span class="bar"></span>
+                    
+                </div>
+            </div>
+
             
 
             
@@ -141,6 +154,7 @@
                       </li>
                       <li class="list-group-item"><i class="fas fa-angle-double-right text-primary pr-3"></i>Send proof of ownership to new shareholders via Ethereum addresses</li>
                       <li class="list-group-item"><i class="fas fa-angle-double-right text-primary pr-3"></i>Manage their companies as DAOs, for transparency and efficiency</li>
+                      <li class="list-group-item"><i class="fas fa-angle-double-right text-primary pr-3"></i>List and trade their tokens on a crypto exchange</li>
                     </ul>
                 </div>
                 
@@ -180,23 +194,17 @@
                         <div class="col-12 col-md-6 mb-2" data-aos="flip-left"  data-aos-duration="900">
                             <div class="card bg-overlay">
                                 <img src="assets/images/img-4.svg" class="img-fluid p-4" width="100%" alt="cryptoassetbox">
-                                <p class="text-secondary" >A blockchain-driven ecosystem for business.</p>
+                                <p class="text-secondary" >A marketplace for Dapps that simplify the issuance of crypto assets</p>
                             </div>
                         </div>
-                        <div class="col-12 mb-2" data-aos="flip-up"  data-aos-duration="1200">
+                        <div class="col-12 col-md-6 mb-2" data-aos="flip-left"  data-aos-duration="900">
                             <div class="card bg-overlay">
-                                <div class="row">
-                                    <div class="col-12 col-md-4">
-                                        <img src="assets/images/img-5.svg" class="img-fluid p-4 float-left width="100%" alt="cryptoassetbox">
-                                    </div>
-                                    <div class="col-12 col-md-8">
-                                        <p class="text-secondary float-left pt-4" >A marketplace for Dapps that simplify business processes for the issuance of crypto assets.</p>
-                                    </div>
-                                </div>
-                                
-                                
+                                <img src="assets/images/img-5.svg" class="img-fluid p-4" width="100%" alt="cryptoassetbox">
+                                <p class="text-secondary" >A secure crypto exchange</p>
                             </div>
                         </div>
+                        
+
                     </div>
                 </div>
 
@@ -336,13 +344,13 @@
                     <img src="assets/images/img-7.png" width="100%" alt="cryptoassetbox" data-aos="fade-up" data-aos-duration="800">
                 </di>
             </div>
-        <div class="media-container-row">
+        <div class="row">
             
                 <div class="col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style display-7" data-aos="fade-right" data-aos-duration="1000">
                     <div class="box-sm"></div>
                     <h2 class="display-3 mbr-bold">BRIDGE THE GAP BETWEEN TRADITIONAL AND BLOCKCHAIN-BASED OWNERSHIP AND INVESTMENT OPPORTUNITIES</h2>
                     <p>
-                     Traditional securities markets are illiquid and limit participation.Digitizing and fractionalizing real world assets opens the markets
+                     Traditional securities markets are illiquid and limit participation. Digitizing and ractionalizing real world assets opens the markets
                     </p>
                 </div>
                 <div class="col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style display-7" data-aos="fade-left" data-aos-duration="1200">
@@ -350,6 +358,13 @@
                      <h2 class="display-3 mbr-bold">SOLVE CORPORATE GOVERNANCE PROBLEMS</h2>
                      <p>
                         Many startups lack the corporate management skills needed to launch a new business. Access governance, finance and people management solutions.
+                     </p>
+                </div>
+                <div class="col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style display-7" data-aos="fade-left" data-aos-duration="1200">
+                    <div class="box-sm"></div>
+                     <h2 class="display-3 mbr-bold">ENSURE LIQUIDITY OF NEW TOKENS</h2>
+                     <p>
+                        Overcome the difficulties and expense of getting new tokens listed on crypto-exchanges
                      </p>
                 </div>
           
@@ -472,30 +487,36 @@
                             <p class="  p-2">How It Works</p>
                         
                 
-                <div class="row" >
+                <div class="row spec" >
                     <div class="col-12 col-md-6">
-                    <div class="card card1 card-box mb-1 " data-aos="fade-up" data-aos-duration="500">
+                    <div class="card card3 card-box mb-1 " data-aos="fade-up" data-aos-duration="500">
                                 <h1 class="display-2 text-white text-center pt-4">Multi-chain platform</h1>
-                                <p>Ethereum, EOS and NEO
-                                Pre-built decentralized applications (Dapps)
-                                Management tools</p>
-                                <a href="mcp.php" class=" btn float-right" style="letter-spacing: 2px;" >Read More  <i class="fas fa-arrow-right ml-3"></i></a>
+                                <p>Harness the best aspects of Ethereum, EOS and NEO</p>
+                                <a href="mcp.php" target="_blank"  class=" btn float-right" style="letter-spacing: 2px;" >Read More  <i class="fas fa-arrow-right ml-3"></i></a>
 
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
-                <div class="card card2 card-box mb-1 " data-aos="fade-up" data-aos-duration="900">
+                <div class="card card3 card-box mb-1 " data-aos="fade-up" data-aos-duration="900">
                             <h1 class="display-2 text-white text-center pt-4">DAPPS</h1>
                             <p>Token creator, ICO campaign creator, Security token creator, Exchange token creator, DAO Company creator, Token Airdrops</p>
-                            <a href="dapps.php" class=" btn float-right" style="letter-spacing: 2px;" >Read More  <i class="fas fa-arrow-right ml-3"></i></a>
+                            <a href="dapps.php" target="_blank"  class=" btn float-right" style="letter-spacing: 2px;" >Read More  <i class="fas fa-arrow-right ml-3"></i></a>
 
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
-                <div class="card card3 card-box mb-1 " data-aos="fade-up" data-aos-duration="1300">
+                        <div class="card card3 card-box mb-1 " data-aos="fade-up" data-aos-duration="1300">
                             <h1 class="display-2 text-white text-center pt-4">MANAGEMENT TOOLS</h1>
-                            <p>Dashboard Compliance and regulatory support</p>
-                            <a href="mtools.php" class=" btn float-right" style="letter-spacing: 2px;" >Read More  <i class="fas fa-arrow-right ml-3"></i></a>
+                            <p>Dashboard <br>Compliance and regulatory support</p>
+                            <a href="mtools.php" target="_blank"  class=" btn float-right" style="letter-spacing: 2px;" >Read More  <i class="fas fa-arrow-right ml-3"></i></a>
+
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div class="card card3 card-box mb-1 " data-aos="fade-up" data-aos-duration="1300">
+                            <h1 class="display-2 text-white text-center text-uppercase pt-4">CRYPTO EXCHANGE</h1>
+                            <p>Small to medium cap projects</p>
+                            <a href="crypto-exchange.php" target="_blank" class=" btn float-right" style="letter-spacing: 2px;" >Read More  <i class="fas fa-arrow-right ml-3"></i></a>
 
                         </div>
                     </div>
@@ -533,7 +554,7 @@
 
                 <div class="">
                     <div class="row justify-content-center">
-                        <div class="col-4 mb-2" data-aos="zoom-in-up" data-aos-duration="1300">
+                        <div class="col-6 col-md-4 mb-2" data-aos="zoom-in-up" data-aos-duration="1300">
                             <div class="card ">
                                 <a href="cab.pdf">
                                     
@@ -710,21 +731,7 @@
                     </div>
 
             </div>
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <img class="card-img-top" src="assets/images/t10@2x.png" alt="Sami Hyypia" title="Sami Hyypia" data-aos="flip-down" data-aos-duration="1100">
-                    
-                    <div class="card-box">
-                        <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
-                          Sami Hyypia <a href="https://www.linkedin.com/in/sami-hyypia-aa673814b" class="social-in badge"><img src="assets/images/in.svg" alt="Sami Hyypia" title="Sami Hyypia"></a>
-                        </h4>
-                        <h3 class="overlay">Sami Hyypia</h3>
-                        <h2 class="designation">Senior Frontend Developer</h2>
-                        <p class="card-text pt-3">
-                           Developer with 6 years of experience in Frontend Development. His specific area of expertise is Frontend development with Javascript. He believes that crypto asset will help future businesses.
-                        </p>
-                    </div>
-
-            </div>
+           
 
 
     
@@ -888,9 +895,9 @@
           </li>
           <li class="list-group-item">Start-ups have corporate governance issues that discourage investment.
             CryptoAssetBox provides a ready-made management system.</li>
-          <li class="list-group-item">Traditional securities markets are illiquid and limit participation. CryptoAssetBox
-            opens the market for ownership and investment opportunities. It bridges the gap
+          <li class="list-group-item">Traditional securities markets are illiquid and limit participation. CryptoAssetBox opens the market for ownership and investment opportunities. It bridges the gap
             between traditional and blockchain-based businesses</li>
+            <li class="list-group-item">It is difficult and expensive to get new tokens listed on crypto-exchanges. Small to medium-cap projects and tokens can be swamped by larger ones. This means that it is difficult to quickly give liquidity to investments. The CABEx crypto exchange will immediately list new tokens, especially for small to medium cap projects. This ensures liquidity of tokens in the secondary market.</li>
         </ol>
       </div>
     </div>

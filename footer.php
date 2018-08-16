@@ -109,6 +109,10 @@ option = {
         top: 20,
        
     },
+    legend: {
+        show: true
+    },
+
  visualMap: {
         show: false,
         min: 100,
@@ -118,6 +122,7 @@ option = {
         }
     },
     tooltip : {
+        show: false,
         trigger: 'item',
         formatter: "{a} <br/>{b} : {c} ({d}%)"
     },
@@ -130,12 +135,12 @@ option = {
             radius : '55%',
             center: ['50%', '50%'],
                data:[
-                {value:600, name:'Project Development  55%'},
-                {value:450, name:'Partnership  15%'},
-                {value:400, name:'Sales & Analytics  10%'},
-                {value:400, name:'Adminstration  10%'},
-                {value:200, name:'Marketing and PR  5%'},
-                {value:200, name:'Operational Cost  5%'},
+                {value:550, name:'Project Development 45%'},
+                {value:250, name:'Partnership 10%'},
+                {value:250, name:'Sales & Analytics 10%'},
+                {value:300, name:'Adminstration 15%'},
+                {value:250, name:'Marketing and PR 10%'},
+                {value:250, name:'Operational Cost 10%'},
             ].sort(function (a, b) { return a.value - b.value; }),
             roseType: 'radius',
             label: {
@@ -187,6 +192,9 @@ option = {
         top: 20,
        
     },
+    legend: {
+        show: true
+    },
  visualMap: {
         show: false,
         min: 0,
@@ -196,6 +204,8 @@ option = {
         }
     },
     tooltip : {
+        show: false,
+        
         trigger: 'item',
         formatter: "{a} <br/>{b} : {c} ({d}%)"
     },

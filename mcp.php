@@ -41,7 +41,7 @@ solution for customers.
                 </div>
             </div>
             <div class="mbr-white col-md-6 align-center">
-                <img src="assets/images/img-18.svg" width="90%" alt="cryptoassetbox" data-aos="zoom-in-up" data-aos-duration="1000"  > 
+                <img src="assets/images/img-19.svg" width="90%" alt="cryptoassetbox" data-aos="zoom-in-up" data-aos-duration="1000"  > 
                 
             </div>
         </div>
