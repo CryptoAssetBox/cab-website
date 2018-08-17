@@ -72,8 +72,11 @@
                 </div>
             </div>
             <div class="row row-copirayt">
-                <p class="mbr-text mb-0 mbr-fonts-style mbr-grey align-center display-7 " style="letter-spacing: 3px; opacity: .7;">
-                    © Copyright <?php echo date("Y"); ?> CryptoAssetBox.All Rights Reserved.
+                <p class="mbr-text mb-0 mbr-fonts-style mbr-grey align-center display-7 " style="letter-spacing: 1px; opacity: .8; font-size: 1rem;">
+                    © Copyright <?php echo date("Y"); ?> CryptoAssetBox.All Rights Reserved. 
+                </p>
+                <p class="mbr-text mb-0 mbr-fonts-style mbr-grey align-center display-7 " style="letter-spacing: 1px; opacity: .7; font-size: 0.9rem;">
+                     Powered by Innovative blockchain solutions Singapore
                 </p>
             </div>
         </div>
@@ -136,11 +139,11 @@ option = {
             center: ['50%', '50%'],
                data:[
                 {value:550, name:'Project Development 45%'},
-                {value:250, name:'Partnership 10%'},
-                {value:250, name:'Sales & Analytics 10%'},
-                {value:300, name:'Adminstration 15%'},
-                {value:250, name:'Marketing and PR 10%'},
-                {value:250, name:'Operational Cost 10%'},
+                {value:250, name:'Operations (platform maintenance) 10%'},
+                {value:250, name:'Partnerships 10%'},
+                {value:350, name:'Marketing and PR 15%'},
+                {value:250, name:'Sales and business analytics 10%'},
+                {value:250, name:'Administration 10%'},
             ].sort(function (a, b) { return a.value - b.value; }),
             roseType: 'radius',
             label: {
