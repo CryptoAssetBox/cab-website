@@ -60,12 +60,12 @@
                 </li>
             </ul>
             <div class="navbar-buttons mbr-section-btn">
-                <a class="btn btn-sm btn-white-outline display-4" href="https://cabico.io/login">
+                <a class="btn btn-sm btn-white-outline display-4" href="https://fund.cabico.io">
                     Register
                 </a>
             </div>
             <div class="navbar-buttons mbr-section-btn">
-                <a class="btn btn-sm btn-white display-4" href="https://cabico.io/login">
+                <a class="btn btn-sm btn-white display-4" href="https://fund.cabico.io">
                     Login
                 </a>
             </div>

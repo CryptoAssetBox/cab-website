@@ -305,7 +305,7 @@ quarter.</p>
 
                         
             </div>
-                     <a href="https://cabico.io/login" class="btn bg-gradient-2 log">Buy Tokens <i class="fas fa-arrow-right"></i></a>   
+                     <a href="https://fund.cabico.io" class="btn bg-gradient-2 log">Buy Tokens <i class="fas fa-arrow-right"></i></a>
 
     </div>
 
