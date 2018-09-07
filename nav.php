@@ -41,12 +41,6 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="ico.php">
-                        <span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>
-                        ICO
-                    </a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link link text-white display-4" href="index.php#team">
                         <span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>
                         Team
@@ -59,16 +53,6 @@
                     </a>
                 </li>
             </ul>
-            <div class="navbar-buttons mbr-section-btn">
-                <a class="btn btn-sm btn-white-outline display-4" href="/register.php">
-                    Register
-                </a>
-            </div>
-            <div class="navbar-buttons mbr-section-btn">
-                <a class="btn btn-sm btn-white display-4" href="/login.php">
-                    Login
-                </a>
-            </div>
         </div>
     </nav>
 </section>

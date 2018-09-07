@@ -24,8 +24,6 @@
                         <a class="text-primary mbr-bold" href="#" target="_blank">Our Team</a>
                     </li><li class="foot-menu-item mbr-fonts-style display-7">
                         <a class="text-primary mbr-bold" href="#" target="_blank">Downloads</a>
-                    </li><li class="foot-menu-item mbr-fonts-style display-7">
-                        <a class="text-primary mbr-bold" href="#" target="_blank">ICO</a>
                     </li>
                 </ul>
             </div>
