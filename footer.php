@@ -24,6 +24,8 @@
                         <a class="text-primary mbr-bold" href="index.php#team" target="_blank">Our Team</a>
                     </li><li class="foot-menu-item mbr-fonts-style display-7">
                         <a class="text-primary mbr-bold" href="index.php#whitepaper" target="_blank">Whitepaper</a>
+                    </li><li class="foot-menu-item mbr-fonts-style display-7">
+                        <a class="text-primary mbr-bold" href="ico.php" target="_blank">ICO</a>
                     </li>
                 </ul>
             </div>
@@ -39,34 +41,21 @@
                         <a href="https://twitter.com/CryptoAssetBox" target="_blank"   >
                            <img src="assets/images/tw.svg" alt="cryptoassetbox" data-aos="fade-right">
                         </a>
-                    </div><div class="soc-item">
-                        <a href="https://t.me/cryptoassetgroup" target="_blank" >
+                    </div>
+                    <div class="soc-item">
+                        <a href="https://t.me/joinchat/G8sVQFMV-hFcH3ddlPIfCg" target="_blank" >
                             <img src="assets/images/te.svg" alt="cryptoassetbox" data-aos="fade-down"  data-aos-duration="1100">
                         </a>
-                    </div><div class="soc-item">
-                        <a href="https://www.linkedin.com/company/crypto-asset-box" target="_blank" >
-                            <img src="assets/images/ln.svg" alt="cryptoassetbox" data-aos="fade-down"  data-aos-duration="1300">
-                        </a>
-                    </div><div class="soc-item">
-                        <a href="https://www.facebook.com/CryptoAssetBox" target="_blank">
-                           <img src="assets/images/fb.svg" alt="cryptoassetbox" data-aos="fade-down"  data-aos-duration="1600">
-                        </a>
                     </div>
                     <div class="soc-item">
-                        <a href="https://www.youtube.com/channel/UCyDPB5CyqUP96bGcyA0O4qw" target="_blank" >
-                            <img src="assets/images/yt.svg" alt="cryptoassetbox" data-aos="fade-down"  data-aos-duration="1800">
+                        <a href="https://discord.gg/AMrw7Gz" target="_blank" >
+                            <img src="assets/images/dc.svg" alt="cryptoassetbox" data-aos="fade-down"  data-aos-duration="1300">
                         </a>
                     </div>
-                    <div class="soc-item">
-                        <a href="https://medium.com/@cryptoassetbox" target="_blank">
-                            <img src="assets/images/md.svg" alt="cryptoassetbox" data-aos="fade-left"  data-aos-duration="1000">
-                        </a>
-                    </div>
-                    <div class="soc-item">
-                        <a href="https://www.reddit.com/user/cryptoassetbox" target="_blank">
-                            <img src="assets/images/rd.svg" alt="cryptoassetbox" data-aos="fade-left"  data-aos-duration="1000">
-                        </a>
-                    </div>
+                  
+                    
+                    
+                    
                 </div>
             </div>
             <div class="row row-copirayt">

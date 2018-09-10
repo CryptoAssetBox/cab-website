@@ -6,7 +6,9 @@
   <meta name="generator" content="CryptoAssetBox">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/logo-primary.svg" type="image/x-icon">
-  <meta name="description" content="CryptoAssetBox">
+  <link rel="icon" type="image/gif" href="assets/images/logo-primary.svg" />
+  <link rel="icon" type="image/png" href="assets/images/logo-white@2x.png" />
+  <meta name="description" content="CryptoAssetBox - cabico.io | The first multichain-based marketplace for the issuance of crypto assets for business">
   <title>Home | CryptoAssetBox</title>
   
   <link rel="stylesheet" href="assets/tether/tether.min.css">

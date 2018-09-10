@@ -21,7 +21,7 @@
                     The first multichain-based marketplace for the issuance of crypto assets for business
                 </p>
                 <div class="mbr-section-btn" data-aos="fade-up"  data-aos-duration="1000">
-                    <a class="btn btn-md btn-secondary display-4" href="cab.pdf">Whitepaper</a>
+                    <a class="btn btn-md btn-secondary display-4" href="CryptoAssetBox_White paper - 10 September 2018.docx">Whitepaper</a>
                 </div>
             </div>
             <div class="mbr-white col-md-8 align-center illustration-box">
@@ -556,7 +556,7 @@
                     <div class="row justify-content-center">
                         <div class="col-6 col-md-4 mb-2" data-aos="zoom-in-up" data-aos-duration="1300">
                             <div class="card ">
-                                <a href="cab.pdf">
+                                <a href="CryptoAssetBox_White paper - 10 September 2018.docx">
                                     
                                 <img id="img-animate" src="assets/images/pdf.svg" class="img-fluid img-animate" width="100%" alt="cryptoassetbox">
                                 <p class="mbr-black text-center pt-3" >Whitepaper</p>
