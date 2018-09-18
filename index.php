@@ -592,7 +592,7 @@
                 <img src="assets/images/shape-3.svg" class="align-center img-center" alt="" data-aos="fade-in" data-aos-duration="1100">
             </div>
         </div>
-        <div class="row justify-content-center">
+        <div class="row ">
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <img class="card-img-top" src="assets/images/t1@2x.png" alt="Luiz Augusto Sará" title="Luiz Augusto Sará" data-aos="flip-down" data-aos-duration="1100">
@@ -728,6 +728,26 @@
                         <p class="card-text pt-3">
                            A Bachelor's degree in Computer Science from the Universidad Politécnica de Cartagena in Spain. Alexay is a top platform architect, engineer, and developer with over 10 years of experience. 6 Years in Blockchain and Node Development.
                         </p>
+                    </div>
+
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <img class="card-img-top" src="assets/images/t11@2x.png" alt="DunHao Zhuang" title="DunHao Zhuang" data-aos="flip-down" data-aos-duration="1100">
+                    
+                    <div class="card-box">
+                        <h4 class="card-title pt-3 mbr-fonts-style display-7" data-aos="zoom-in" data-aos-duration="500">
+                          DunHao Zhuang <a href="https://www.linkedin.com/in/dunhao/" class="social-in badge"><img src="assets/images/in.svg" alt="DunHao Zhuang" title="DunHao Zhuang"></a>
+                        </h4>
+                        <h3 class="overlay">DunHao Zhuang</h3>
+                        <h2 class="designation">Frontend developer</h2>
+                        <p class="card-text pt-2 pb-2">
+                           DunHao is a Sr. software engineer. 
+                        </p>
+                        <p>
+                            10+ years of experience at computer industry, mainly focused on web Full-stack development with LEMP, MERN and various block chain techs.Aiming long term relation ship with clients all around the world.Took part in development of various successful ICO campaigns and block chain based dApp projects.
+                        </p>
+                        <p class="pt-2">Enthusiastic about technologies</p>
                     </div>
 
             </div>
